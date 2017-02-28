@@ -11,7 +11,9 @@ permalink: /team/
 			<h2>{{team_member.fname}} {{team_member.lname}}</h2>
 			<h4>{{team_member.position}}</h4>
 			<p>{{team_member.bio}}</p>
+			{% if team_member.pic %}
 			<p>{{team_member.talk}}</p>
+			{% endif %}
 		</div>
 		<div class="container__team_member--pic">
 			<img src="{{team_member.pic}}">
