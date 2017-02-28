@@ -1,0 +1,34 @@
+---
+layout: default
+---
+<div class="container">
+
+
+  <header class="speaker__header">
+    <div class="speaker__header--text">
+      <h1 class="speaker__name">{{ page.name }}</h1>
+      <h2 class="speaker__title">{{ page.title }}</h2>
+      {% if page.website %}
+      <p><i class="fa fa-globe"></i> Website: <a href="{{ page.website }}" target="_blank">{{page.website}}</a></p>
+      {% endif %}
+      {% if page.facebook %}
+      <p><i class="fa fa-facebook"></i> <a href="{{ page.facebook }}" target="_blank">{{page.facebook-description}}</a></p>
+      {% endif %}
+      {% if page.twitter %}
+      <p><i class="fa fa-twitter"></i> <a href="{{ page.twitter }}" target="_blank">{{page.twitter-description}}</a></p>
+      {% endif %}
+      {% if page.instagram %}
+      <p><i class="fa fa-instagram"></i> <a href="{{ page.instagram }}" target="_blank">{{page.instagram-description}}</a></p>
+      {% endif %}
+      {% if page.youtube %}
+      <p><i class="fa fa-youtube-play"></i> <a href="{{ page.youtube }}" target="_blank">{{page.youtube-description}}</a></p>
+      {% endif %}
+    </div>
+    <img class="speaker__pic" src="{{page.pic}}"/>
+  </header>
+
+  <div class="speaker__content">
+    {{ content }}
+  </div>
+
+</div>

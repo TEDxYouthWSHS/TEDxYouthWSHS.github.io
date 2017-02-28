@@ -1,0 +1,26 @@
+---
+layout: community
+permalink: /community/
+
+---
+<div class="community">
+	{% for post in site.community %}
+		<div class="row">
+		  <div class="col-sm-6 col-md-4">
+		    <div class="thumbnail">
+		      <img src="{{post.pic}}" alt="{{post.alt}}">
+		      <div class="caption">
+		        <h4 class="text-center">{{post.title}}</h4>
+				<p><a href="{{ post.url }}" class="btn btn-primary" role="button" style="color: white">Read more</a></p>
+		      </div>
+		    </div>
+		  </div>
+		</div>
+		<!--
+		<div class="posts__item">
+			<img class="posts__item--pic" src="{{ post.pic }}">
+			<a class="posts__item--title" href="{{ post.url }}">{{ post.title }}</a>
+		</div>
+		-->
+	{% endfor %}
+</div>

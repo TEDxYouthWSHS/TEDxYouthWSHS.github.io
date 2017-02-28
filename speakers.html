@@ -1,0 +1,52 @@
+---
+layout: default
+title: Speakers
+permalink: /speakers/
+
+---
+
+<div class="speakers">
+	<h1>Our 2017 Speakers</h1>
+	<div class="speakers__section">
+		{% for speaker in site.speakers2017 %}
+			<div class="speakers__item wow fadeInUp">
+				<img class="speakers__item--pic" src="{{ speaker.pic }}"/>
+				<div class="speakers__item--text">
+					<h3 class="speakers__item--title">{{ speaker.name}}</h3>
+					<h4 class="speakers__item--title">{{ speaker.title }}</h4>
+					<button class="speakers__item--button"><a href="{{ speaker.url }}">Learn More</a></button>
+				</div>
+			</div>
+		{% endfor %}
+	</div>
+	<!-- We don't have any old speakers. It's our first year. Yay!
+	<hr>
+	<h1>Our 2015 Speakers</h1>
+	<div class="speakers__section">
+		{% for speaker in site.speakers2015 %}
+			<div class="speakers__item wow fadeInUp">
+				<img class="speakers__item--pic" src="{{ speaker.pic }}"/>
+				<div class="speakers__item--text">
+					<h3 class="speakers__item--title">{{ speaker.name}}</h3>
+					<h4 class="speakers__item--title">{{ speaker.title }}</h4>
+					<button class="speakers__item--button"><a href="{{ speaker.url }}">Learn More</a></button>
+				</div>
+			</div>
+		{% endfor %}
+	</div>
+	<hr>
+	<h1>Our 2014 Speakers</h1>
+	<div class="speakers__section">
+		{% for speaker in site.speakers2014 %}
+			<div class="speakers__item wow fadeInUp">
+				<img class="speakers__item--pic" src="{{ speaker.pic }}"/>
+				<div class="speakers__item--text">
+					<h3 class="speakers__item--title">{{ speaker.name}}</h3>
+					<h4 class="speakers__item--title">{{ speaker.title }}</h4>
+					<button class="speakers__item--button"><a href="{{ speaker.url }}">Learn More</a></button>
+				</div>
+			</div>
+		{% endfor %}
+	</div>
+	-->
+</div>
