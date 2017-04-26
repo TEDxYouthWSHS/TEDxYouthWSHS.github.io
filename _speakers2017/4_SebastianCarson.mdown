@@ -1,0 +1,10 @@
+---
+layout: speaker
+name: Sebastian Carson
+title: Memphis Urban League Young Professional
+pic: /img/speakers/2017/SebastianCarson.jpg
+video:
+bio: Hello everyone, the name is Sebastian Carson. I am a native Memphian, Alumni of THE Central High School, and a graduate of Middle Tennessee State University with a passion for poetry and empowering people.
+---
+
+Hello everyone, the name is Sebastian Carson. I am a native Memphian, Alumni of THE Central High School, and a graduate of Middle Tennessee State University with a passion for poetry and empowering people. In a perfect world, I would have been discovered by a major production company and they would have given me a lot of money to write empowering spoken-word movies (the performance of poetry). That production company has yet to give me a call so I tend to that hobby on the side. Professionally, I spent a season working as a Public Strategist for a Government Relations firm; Thus, I have come quite familiar with the landscapes Memphis politics.
