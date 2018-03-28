@@ -3,8 +3,8 @@ layout: speaker
 name: Arhum Qureshi
 title: Student at WSHS
 pic: /img/speakers/2017/ArhumQureshi.jpg
-video:
 bio: Arhum Qureshi, a junior at White Station High School, is a passionate young man who strives to push himself to be the best, writing and speaking what is on his mind and about issues around the world.
+year: 2017
 ---
 
 My name is Arhum Qureshi. I'm an 11th grader at White Station High School. I always strive to push myself to being the best. I actively volunteer for various social groups and organizations. I currently involved in several diverse clubs at my school. I participate in multiple competitions to challenge myself, such as public speaking and mathematics. I'm passionate about writing and speaking what is on my mind and what issues are occurring in the world. The thing I want to do is to prove that no matter who you are, you can always make an impact to the world and help the people that live in it.

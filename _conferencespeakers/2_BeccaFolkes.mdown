@@ -8,6 +8,7 @@ bio: Becca Folkes-Lallo, a junior at White Station High School, is a passionate 
 website: http://www.memphisasha.weebly.com
 instagram: https://www.instagram.com/b.lallo/
 instagram-description: Becca Folkes-Lallo's Instagram
+year: 2017
 ---
 
 Becca Folkes-Lallo, a junior at White Station High School, is a passionate youth organizer hired by Bridge Builders to create social change in Memphis. As an organizer in Memphis Against Sexual Harassment and Assault (MASHA), Becca works continuously to raise awareness around sexual violence. She believes that no matter how old you are or where you come from, you can be the change.

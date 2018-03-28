@@ -5,6 +5,7 @@ title: Makerspace Facilitator @ CLOUD901 FedEx Makerspace
 pic: /img/speakers/2017/JeremyMitchell.jpg
 video:
 bio: Jeremy Mitchell works as the Makerspace Facilitator at the CLOUD901, FedEx Makerspace. As makerspace facilitator, Jeremy engages teens in programming such as 3D design and 3D printing, electronics, robotics, and woodworking.
+year: 2017
 ---
 
 Jeremy Mitchell works as the Makerspace Facilitator at the CLOUD901, FedEx Makerspace. As makerspace facilitator, Jeremy engages teens in programming such as 3D design and 3D printing, electronics, robotics, and woodworking.
