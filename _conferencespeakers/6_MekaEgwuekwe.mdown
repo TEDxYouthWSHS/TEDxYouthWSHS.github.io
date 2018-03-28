@@ -1,0 +1,16 @@
+---
+layout: speaker
+name: Meka Egwuekwe
+title: Executive Director, CodeCrew
+pic: /img/speakers/2018/MekaEgwuekwe.jpg
+video:
+bio: Meka Egwuekwe is Executive Director of CodeCrew, an innovative, mentorship-based youth coding initiative guiding young people in Memphis to be tech producers.
+year: 2018
+---
+Meka Egwuekwe is Executive Director of CodeCrew, an innovative, mentorship-based youth coding initiative guiding young people in Memphis to be tech producers. Since founding CodeCrew with Petya Grady and Audrey Jones, Meka has worked tirelessly to make computer science education available to kids across the city.
+
+Formerly Director of Software Development for Lokion Interactive, Meka has been a professional software developer for more than nineteen years, building software systems for governments and Fortune 500 companies around the world. 
+
+Meka has been a local leader in the youth coding movement since founding the Memphis Chapter of Black Girls Code in late 2012. Under his guidance, the chapter became one of the country’s most active, hosting more than a dozen workshops teaching hundreds of girls how to build mobile applications, web pages, video games, and robots. Meka is also a longtime mentor in StartCo’s business and technology accelerators, where he has mentored various companies in tech. 
+
+Meka has a B.S. and M.S. in Computer Science from Morehouse College and Duke University, respectively. He resides in Memphis with his wife, Pamela, and their two daughters.
