@@ -1,0 +1,10 @@
+---
+layout: speaker
+name: Ellen Barnes
+title: Youth Activist
+pic: /img/speakers/2018/EllenBarnes.jpg
+video:
+bio: Ellen began to take interest in poverty after attending a camp called "collide" which was located in Nashville, where she quickly learned about how poverty affects all people and why it is important to address the problem because it is the elephant in the room. The camp inspired her goals in life and she hopes to change the way people think of poverty and the people who experience it.
+year: 2018
+---
+Ellen began to take interest in poverty after attending a camp called "collide" which was located in Nashville, where she quickly learned about how poverty affects all people and why it is important to address the problem because it is the elephant in the room. The camp inspired her goals in life and she hopes to change the way people think of poverty and the people who experience it.
