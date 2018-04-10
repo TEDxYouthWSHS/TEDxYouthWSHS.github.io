@@ -1,0 +1,9 @@
+---
+layout: speaker
+name: Hannah Hornsey
+title: Co-Executive Director, The Bridge Street Newspaper
+pic: /img/speakers/2018/HannahHornsey.jpg
+video:
+bio: Hannah Hornsey is a Senior at Rhodes College in Memphis who will graduate in May. She is the Co-Executive Director of The Bridge Street Newspaper, a monthly publication that works to ameliorate the lives of those suffering from homelessness in Memphis. The Bridge has allowed vendors to afford groceries, rent, and even buy cars; it has also shaped Hannah's own experience at Rhodes by providing her with valuable time management, organization, and leadership skills.
+---
+Hannah Hornsey is a Senior at Rhodes College in Memphis who will graduate in May with a BA in English Creative Writing with a concentration in Poetry and a minor in French Language. She is the Co-Executive Director of The Bridge Street Newspaper, a monthly publication that works to ameliorate the lives of those suffering from homelessness in Memphis. The Bridge has allowed vendors to afford groceries, rent, and even buy cars; it has also shaped Hannah's own experience at Rhodes by providing her with valuable time management, organization, and leadership skills. She hopes to continue to help the organization expand and gain more of a positive presence in the Memphis community.
